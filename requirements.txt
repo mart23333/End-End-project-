@@ -1,0 +1,6 @@
+PyQt6
+Pdfplumber
+Python-docx
+Spacy
+nLtk
+scikit-learn
