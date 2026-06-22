@@ -7,7 +7,10 @@ class EntityBankBuilder:
     def __init__(self, nlp):
         self.nlp = nlp
 
+
  # Processes the text and stores useful entities and concepts    
+
+ # Processes the text and stores useful entities and concepts   
     def build(self, text):
         doc = self.nlp(text)
         bank = defaultdict(list)
