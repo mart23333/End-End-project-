@@ -1,5 +1,6 @@
 
 #import required modules
+import re
 
 # cleans and normalizes answer options
 class OptionNormalizer:
